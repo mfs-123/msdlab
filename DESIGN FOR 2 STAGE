@@ -1,0 +1,9 @@
+# M1, M2 - (4.37u/1u)x2
+# M3, M4 - (1.79u/0.57u)x6
+# M5 - (4.37u/1u)x4
+# PMOS of CS - (7.5u/180n)x1
+# NMOS of CS - default sizing
+# Cc - width:17.2u ; length:17.2u
+# R - 2.5k
+# Vsin - A-0.0005V ; f-1kHz
+# Vtail,Vdc - 0.9V
