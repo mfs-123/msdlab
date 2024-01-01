@@ -6,4 +6,4 @@
 # Cc - width:17.2u ; length:17.2u
 # R - 2.5k
 # Vsin - A-0.0005V ; f-1kHz
-# Vtail,Vdc - 0.9V
+# Vtail,Vcm - 0.9V
